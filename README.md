@@ -27,7 +27,7 @@
 
 Built a dashboard that shows how much CO2 is being omitted in each country along with each region. Used **PowerBI** to create this interactive dashboard where you can view the map of countries and regions that have the highest CO2 Emissions. In the presentation we give reasoning of why are CO2 Emissions have increased in certain regions and how critical it is to reduce the emissions to be able to reduce Global Warming that affects many wild life where people are unaware about.
 
-![CO2 Emissions Dashboard](/assets/img/CO2_Emissions_Dashboard.png)
+![CO2 Emissions Dashboard](/assets/img/CO2 Emissions Dashboard.png)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
