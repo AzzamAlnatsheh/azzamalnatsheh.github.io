@@ -24,6 +24,13 @@ Passionate and detail-oriented professional with a strong background in Artifici
 - Deployed several ML models on an interface for users to use and test by inserting Arabic news or Arabic tweets
 
 ## Projects
+### Arabic News Clustering for Factuality Estimation​
+[Poster](https://1drv.ms/p/s!AjP1Qj8WbN9GlxwLn-3bxiGwylyj?e=0cab5u)
+
+Created a NLP project that checks the worthiness of Arabic news and tweets using the Checkworthiness dataset found in GitLab. The dataset is labelled and our task was to find the most suitable model to classify if the text is worth checking or not. The suitable model is then deployed into an interface where the user can have the option of testing the model and check the Checkworthiness meter that is found next to the textbox where the user can insert their news for checking.
+
+![Checkworthiness Interface](/assets/img/Checkworthiness Interface.png)
+
 ### CO2 Emissions Visualizations through PowerBI
 [Presentation](https://docs.google.com/presentation/d/1SFvz2RMeI2BsqXjN9BdY4GLgEJ9iswwl/edit?usp=drive_link&ouid=107487010576341814592&rtpof=true&sd=true)
 
@@ -32,7 +39,7 @@ Built a dashboard that shows the rate of how much CO2 is being omitted in each c
 ![CO2 Emissions Dashboard](/assets/img/CO2 Emissions Dashboard.png)
 
 ### Cyber Bullying Arabic Tweets Detector
-[Google Collab](https://colab.research.google.com/drive/1iMMVWkHd0Cd_XZqDOFMt8oH2qYvhIy4m?usp=sharing)
+[Source Code](https://colab.research.google.com/drive/1iMMVWkHd0Cd_XZqDOFMt8oH2qYvhIy4m?usp=sharing)
 
 Used **Python** to create an NLP model that detects a safe tweet from a toxic tweet in the Arabic language. The most suitable model for this project was AraBERT which is a transformer that is pre-trained on many Arabic datasets that can then be fine-tuned to our liking. At first we focused on scarping the Arabic tweets that are related to the Qatar World Cup 2022 which was trending at that time, after getting the dataset we labelled them and used AraBERT to test if it can classify the tweets accordingly. At the end we created an interface through StreamLit where we can allow the user to test our model.
 
