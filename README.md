@@ -17,15 +17,17 @@
 - Conducting interactive recap sessions to reinforce key concepts and materials covered in any Zaka Program
 
 **Freelancer Instructor @ Zaka (_November 2022 - Present_)**
-- Created a Natu
+- Created a Natural Language Processing (NLP) project that does 'Arabic News Clustering for Factuality Estimation'.
+- Built a classification model that does check worthiness on 17,000 Arabic tweets and news with 75% accuracy
+- Deployed several ML models on an interface for users to use and test by inserting Arabic news or Arabic tweets
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### CO2 Emissions Visualizations through PowerBI
+[Presentation](https://docs.google.com/presentation/d/1SFvz2RMeI2BsqXjN9BdY4GLgEJ9iswwl/edit?usp=drive_link&ouid=107487010576341814592&rtpof=true&sd=true)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Built a dashboard that shows how much CO2 is being omitted in each country along with each region. Used **PowerBI** to create this interactive dashboard where you can view the map of countries and regions that have the highest CO2 Emissions. In the presentation we give reasoning of why are CO2 Emissions have increased in certain regions and how critical it is to reduce the emissions to be able to reduce Global Warming that affects many wild life where people are unaware about.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![CO2 Emissions Dashboard](/assets/img/CO2_Emissions_Dashboard.png)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
