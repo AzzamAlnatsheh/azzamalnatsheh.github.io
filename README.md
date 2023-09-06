@@ -5,6 +5,7 @@ Passionate and detail-oriented professional with a strong background in Artifici
 
 ## Education		        		
 - B.S., Computer Engineering | Qatar Univeristy (_May 2023_)
+- AI Certification, Data Science Specialization | Zaka (_November 2022_)
 
 ## Work Experience
 **Teaching Assistant @ Correlation One (_July 2023 - Present_)**
@@ -26,18 +27,18 @@ Passionate and detail-oriented professional with a strong background in Artifici
 ### CO2 Emissions Visualizations through PowerBI
 [Presentation](https://docs.google.com/presentation/d/1SFvz2RMeI2BsqXjN9BdY4GLgEJ9iswwl/edit?usp=drive_link&ouid=107487010576341814592&rtpof=true&sd=true)
 
-Built a dashboard that shows how much CO2 is being omitted in each country along with each region. Used **PowerBI** to create this interactive dashboard where you can view the map of countries and regions that have the highest CO2 Emissions. In the presentation we give reasoning of why are CO2 Emissions have increased in certain regions and how critical it is to reduce the emissions to be able to reduce Global Warming that affects many wild life where people are unaware about.
+Built a dashboard that shows the rate of how much CO2 is being omitted in each country along with each region. Used **PowerBI** to create this interactive dashboard where you can view the map of countries and regions that have the highest CO2 Emissions. In the presentation we give reasoning of why are CO2 Emissions have increased in certain regions and how critical it is to reduce the emissions to be able to reduce Global Warming that affects many wild life where people are unaware about.
 
 ![CO2 Emissions Dashboard](/assets/img/CO2 Emissions Dashboard.png)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Cyber Bullying Arabic Tweets Detector
+[Google Collab]([https://www.mdpi.com/1424-8220/22/11/4240](https://colab.research.google.com/drive/1iMMVWkHd0Cd_XZqDOFMt8oH2qYvhIy4m?usp=sharing))
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Used **Python** to 
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Cyber Bullying Arabic Tweets Detector](/assets/img/Cyber Bullying Arabic Tweets Detector.png)
 
-## Talks & Lectures
+## Certifications
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
 - Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
 - Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
