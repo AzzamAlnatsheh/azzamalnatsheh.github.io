@@ -2,7 +2,6 @@
 Passionate and detail-oriented professional with a strong background in Artificial Intelligence (AI) and Data Science. Skilled in database querying, data cleaning, machine learning (ML) and creating impactful visualizations. Committed to continuous learning and growth in the field of Data Science. Excellent communication and interpersonal abilities, fostering effective collaboration with colleagues and clients.
 
 #### Technical Skills: Python, SQL, Excel, PowerBI, Java
-#### [LinkedIn]([https://medium.com/@shawhin](https://www.linkedin.com/in/azzamalnatsheh/)https://www.linkedin.com/in/azzamalnatsheh/)
 
 ## Education		        		
 - B.S., Computer Engineering | Qatar Univeristy (_May 2023_)
@@ -49,3 +48,9 @@ To read the full report you can click [here](https://drive.google.com/file/d/1tL
 
 ## Publications
 1. V. Plevris, H. Abdallah and A. Alnatsheh, "Blockchain and its Potential in the Digitization of Land and Real Estate Property Records", 2nd International Conference on Civil Infrastructure and Construction (CIC 2023), Qatar University, Doha, Qatar, 5-8 February, 2023.
+
+## Socials
+- [LinkedIn](https://www.linkedin.com/in/azzamalnatsheh/)
+- [GitHub](https://github.com/AzzamAlnatsheh)
+- [DataCamp](https://www.datacamp.com/portfolio/AzzamAlnatsheh)
+- [Kaggle](https://www.kaggle.com/azzamalnatsheh)
