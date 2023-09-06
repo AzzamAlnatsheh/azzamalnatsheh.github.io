@@ -32,7 +32,7 @@ Built a dashboard that shows the rate of how much CO2 is being omitted in each c
 ![CO2 Emissions Dashboard](/assets/img/CO2 Emissions Dashboard.png)
 
 ### Cyber Bullying Arabic Tweets Detector
-[Google Collab]([https://www.mdpi.com/1424-8220/22/11/4240](https://colab.research.google.com/drive/1iMMVWkHd0Cd_XZqDOFMt8oH2qYvhIy4m?usp=sharing))
+[Google Collab](https://colab.research.google.com/drive/1iMMVWkHd0Cd_XZqDOFMt8oH2qYvhIy4m?usp=sharing)
 
 Used **Python** to create an NLP model that detects a safe tweet from a toxic tweet in the Arabic language. The most suitable model for this project was AraBERT which is a transformer that is pre-trained on many Arabic datasets that can then be fine-tuned to our liking. At first we focused on scarping the Arabic tweets that are related to the Qatar World Cup 2022 which was trending at that time, after getting the dataset we labelled them and used AraBERT to test if it can classify the tweets accordingly. At the end we created an interface through StreamLit where we can allow the user to test our model.
 
