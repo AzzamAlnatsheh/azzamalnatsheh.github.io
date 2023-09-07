@@ -29,6 +29,8 @@ Passionate and detail-oriented professional with a strong background in Artifici
 
 Created a NLP project that checks the worthiness of Arabic news and tweets using the Checkworthiness dataset found in GitLab. The dataset is labelled and our task was to find the most suitable model to classify if the text is worth checking or not. The suitable model is then deployed into an interface where the user can have the option of testing the model and check the Checkworthiness meter that is found next to the textbox where the user can insert their news for checking.
 
+To check the source code you can click [here](https://colab.research.google.com/drive/1f4IXa8zyJDK5DoArGtly9HkWuzS4wIV_?usp=sharing)
+
 ![Checkworthiness Interface](/assets/img/Checkworthiness Interface.png)
 
 ### CO2 Emissions Visualizations through PowerBI
