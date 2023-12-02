@@ -8,6 +8,13 @@ Passionate and detail-oriented professional with a strong background in Artifici
 - AI Certification, Data Science Specialization | Zaka (_November 2022_)
 
 ## Work Experience
+**Data and Reporting Specialist @ Baladna (_October 2023 - Present_)**
+- Collecting and organizing data from a variety of sources, using pre-set tools and methods
+- Analyzing data to identify trends and patterns, using pre-set tools and methods
+- Contributing to the preparation of data and analytics reports, using pre-set formats and templates
+- Developing and implementing databases, data collection systems, data analytics and other strategies that optimize statistical efficiency and quality
+- Consulting and educating stakeholders on methods for streamlining and standardizing data recording to ensure quality and accuracy
+
 **Teaching Assistant @ Correlation One (_July 2023 - Present_)**
 - Teaching students Data Science through using Python, PowerBI, SQL and Microsoft Excel
 - Providing 6 hours of individual office hour sessions for students each week
