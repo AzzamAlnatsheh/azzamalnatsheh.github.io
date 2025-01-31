@@ -1,34 +1,29 @@
 # Data Scientist
 Passionate and detail-oriented professional with a strong background in Artificial Intelligence (AI) and Data Science. Skilled in database querying, data cleaning, machine learning (ML) and creating impactful visualizations. Committed to continuous learning and growth in the field of Data Science. Excellent communication and interpersonal abilities, fostering effective collaboration with colleagues and clients.
 
-#### Technical Skills: Python, SQL, Excel, PowerBI, Java
+#### Technical Skills: Python, SQL, Excel, Power BI, DAX, M-Language, SSMS, SSIS
 
 ## Education		        		
 - B.S., Computer Engineering | Qatar Univeristy (_May 2023_)
 - AI Certification, Data Science Specialization | Zaka (_November 2022_)
 
 ## Work Experience
-**Data and Reporting Specialist @ Baladna (_October 2023 - Present_)**
-- Collecting and organizing data from a variety of sources, using pre-set tools and methods
-- Analyzing data to identify trends and patterns, using pre-set tools and methods
-- Contributing to the preparation of data and analytics reports, using pre-set formats and templates
-- Developing and implementing databases, data collection systems, data analytics and other strategies that optimize statistical efficiency and quality
-- Consulting and educating stakeholders on methods for streamlining and standardizing data recording to ensure quality and accuracy
+**Senior IT System Adminstrator @ Baladna (_October 2023 - Present_)**
+- Maintaining a SQL Server to be the staging storage area for the data coming from SAP and making it the source that is pulled from by Power BI
+- Migrating SAP Analytics Cloud (SAC) Finance Dashboard to Power BI by replicating the same logic applied in the SAC HANA Database Calculation Views
+- Working closely with the business to better understand the logic and meaning of each replicated KPIs for the Finance Dashboards
+- Presenting the finalized Finance Dashboards to the Chief Financial Officer (CFO) for his approval with the presence of the relevant business
 
-**Teaching Assistant @ Correlation One (_July 2023 - Present_)**
-- Teaching students Data Science through using Python, PowerBI, SQL and Microsoft Excel
-- Providing 6 hours of individual office hour sessions for students each week
-- Hosting review sessions and other support mechanisms to ensure the progress and satisfaction of students
+**Teaching Assistant @ Correlation One (_October 2024 - Present_)**
+- Assisting & guiding learners on how to use Microsoft Excel, Visualizations Tools & Python to complete a Data project
+- Participating in all live lectures, providing helpful and fast responses via Slack
+- Providing few hours per week of Office Hours for learners to drop-by and ask their questions
+- Hosting review sessions or other support mechanisms to ensure the progress and satisfaction of learners
 
-**Freelancer Instructor @ Zaka (_November 2022 - Present_)**
+**Freelancer Instructor @ Zaka (_November 2022 - April 2024_)**
 - Identifying and addressing any learning gaps or challenges faced by students, providing additional resources and support as needed
 - Expertly answering participants' questions on topics including Computer Vision, Time Series Analysis, Algorithms, AI, ML and NLP
 - Conducting interactive recap sessions to reinforce key concepts and materials covered in any Zaka Program
-
-**Freelancer Instructor @ Zaka (_November 2022 - Present_)**
-- Created a Natural Language Processing (NLP) project that does 'Arabic News Clustering for Factuality Estimation'.
-- Built a classification model that does check worthiness on 17,000 Arabic tweets and news with 75% accuracy
-- Deployed several ML models on an interface for users to use and test by inserting Arabic news or Arabic tweets
 
 ## Projects
 ### Arabic News Clustering for Factuality Estimation​
@@ -57,10 +52,10 @@ To read the full report you can click [here](https://drive.google.com/file/d/1tL
 ![Cyber Bullying Arabic Tweets Detector Interface](/assets/img/Cyber Bullying Arabic Tweets Detector.png)
 
 ## Certifications
-- Zaka Certified: Data Science Specialization
-- Microsoft Certified: Azure AI Fundamentals
-- Microsoft Certified: Azure Data Fundamentals
-- Microsoft Certified: Azure Fundamentals
+- Oracle Cloud Infrastruction Generative AI 2024
+- Generative AI at SAP 2024
+- Oracle Data Management Foundations 2023
+- Oracle Cloud Infrastructure 2023
 
 ## Publications
 1. V. Plevris, H. Abdallah and A. Alnatsheh, "Blockchain and its Potential in the Digitization of Land and Real Estate Property Records", 2nd International Conference on Civil Infrastructure and Construction (CIC 2023), Qatar University, Doha, Qatar, 5-8 February, 2023.
