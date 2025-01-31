@@ -1,7 +1,7 @@
 # Data Scientist
 Passionate and detail-oriented professional with a strong background in Artificial Intelligence (AI) and Data Science. Skilled in database querying, data cleaning, machine learning (ML) and creating impactful visualizations. Committed to continuous learning and growth in the field of Data Science. Excellent communication and interpersonal abilities, fostering effective collaboration with colleagues and clients.
 
-#### Technical Skills: Python, SQL, Excel, Power BI, DAX, M-Language, SSMS, SSIS
+#### Technical Skills: Python, SQL, Excel, Power BI, DAX, M-Language
 
 ## Education		        		
 - B.S., Computer Engineering | Qatar Univeristy (_May 2023_)
