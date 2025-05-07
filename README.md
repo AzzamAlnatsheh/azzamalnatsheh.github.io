@@ -9,12 +9,15 @@ Passionate and detail-oriented professional with a strong background in Artifici
 
 ## Work Experience
 **Senior IT System Adminstrator @ Baladna (_October 2023 - Present_)**
-- Maintaining a SQL Server to be the staging storage area for the data coming from SAP and making it the source that is pulled from by Power BI
-- Migrating SAP Analytics Cloud (SAC) Finance Dashboard to Power BI by replicating the same logic applied in the SAC HANA Database Calculation Views
-- Working closely with the business to better understand the logic and meaning of each replicated KPIs for the Finance Dashboards
-- Presenting the finalized Finance Dashboards to the Chief Financial Officer (CFO) for his approval with the presence of the relevant business
+- Maintaining a SQL Database to stage the data coming from SAP HANA Database using Linked Server
+- Migrating SAP Analytics Cloud (SAC) Financial Dashboards to Power BI
+- Replicating SAC's SAP HANA Database Calculation Views to SQL Queries in SAP HANA Studio
+- Collaborating with the Finance Reporting team to understand and validate the logic of the KPIs
+- Presenting the finalized Financials Dashboards to the Chief Financial Officer (CFO)
+- Built a report that tracks the full Procurement process from Purchase Request (PR) till Payment (BRS)
+- Creating SQL views that brings the Farms data from SAP HANA Database to the Farms Data Warehouse
 
-**Teaching Assistant @ Correlation One (_October 2024 - Present_)**
+**Teaching Assistant @ Correlation One (_October 2024 - January 2025_)**
 - Assisting & guiding learners on how to use Microsoft Excel, Visualizations Tools & Python to complete a Data project
 - Participating in all live lectures, providing helpful and fast responses via Slack
 - Providing few hours per week of Office Hours for learners to drop-by and ask their questions
