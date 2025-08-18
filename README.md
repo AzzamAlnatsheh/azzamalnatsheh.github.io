@@ -36,6 +36,7 @@ Motivated **Data & Reporting Specialist** and **Certified Data Scientist** with 
 
 ## Projects
 ### Migration of SAC Financial Dashboard → Microsoft Power BI
+![SAC → PBI](/assets/img/SAC → PBI.png)
 Migrated **9 financial dashboards from SAC to Power BI** including Accounts Payable (AP), Accounts Receivable (AR), Balance Sheet, Detailed P&L, Executive Summary, KPI Analysis I, KPI Analysis II, KPI Bridges, Treasury.
 
 ### Automated Report for Supplier Tracking in Power BI
@@ -48,16 +49,16 @@ Engineered a linked server integration between **SAP HANA** and **Microsoft SQL 
 Designed and deployed a **Finance Workspace App** integrating **15+** financial dashboards into a centralized access point this enabled the financial department to use the built reports and dashboards using only one link.
 
 ### Arabic News Clustering for Factuality Estimation​
-[**Project Poster**](https://1drv.ms/p/s!AjP1Qj8WbN9GlxwLn-3bxiGwylyj?e=0cab5u)
+[Project Poster](https://1drv.ms/p/s!AjP1Qj8WbN9GlxwLn-3bxiGwylyj?e=0cab5u)
 
 Created a NLP project that checks the worthiness of Arabic news and tweets using the Checkworthiness dataset found in GitLab. The dataset is labelled and our task was to find the most suitable model to classify if the text is worth checking or not. The suitable model is then deployed into an interface where the user can have the option of testing the model and check the Checkworthiness meter that is found next to the textbox where the user can insert their news for checking.
 
-To check the source code you can click [**here**](https://colab.research.google.com/drive/1f4IXa8zyJDK5DoArGtly9HkWuzS4wIV_?usp=sharing)
+To check the source code you can click [here](https://colab.research.google.com/drive/1f4IXa8zyJDK5DoArGtly9HkWuzS4wIV_?usp=sharing)
 
 ![Checkworthiness Interface](/assets/img/Checkworthiness Interface.png)
 
 ### CO2 Emissions Visualizations through PowerBI
-[**Dashboard Presentation**](https://docs.google.com/presentation/d/1SFvz2RMeI2BsqXjN9BdY4GLgEJ9iswwl/edit?usp=drive_link&ouid=107487010576341814592&rtpof=true&sd=true)
+[Dashboard Presentation](https://docs.google.com/presentation/d/1SFvz2RMeI2BsqXjN9BdY4GLgEJ9iswwl/edit?usp=drive_link&ouid=107487010576341814592&rtpof=true&sd=true)
 
 Built a dashboard that shows the rate of how much CO2 is being omitted in each country along with each region. Used **PowerBI** to create this interactive dashboard where you can view the map of countries and regions that have the highest CO2 Emissions. In the presentation we give reasoning of why are CO2 Emissions have increased in certain regions and how critical it is to reduce the emissions to be able to reduce Global Warming that affects many wild life where people are unaware about.
 
