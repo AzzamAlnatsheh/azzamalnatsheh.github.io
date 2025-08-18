@@ -39,23 +39,23 @@ Motivated **Data & Reporting Specialist** and **Certified Data Scientist** with 
 ![SAC → PBI](/assets/img/SAC → PBI.png)
 Migrated **9 financial dashboards from SAC to Power BI** including: 
   - Accounts Payable (AP)
-    ![AP]
+    ![AP]()
   - Accounts Receivable (AR)
-    ![AR]
+    ![AR]()
   - Balance Sheet
-    ![Balance Sheet]
+    ![Balance Sheet]()
   - Detailed P&L
-    ![Detailed P&L]
+    ![Detailed P&L]()
   - Executive Summary
-    ![Executive Summary]
+    ![Executive Summary]()
   - KPI Analysis I
-    ![KPI Analysis I]
+    ![KPI Analysis I]()
   - KPI Analysis II
-    ![KPI Analysis II]
+    ![KPI Analysis II]()
   - KPI Bridges
-    ![KPI Bridges]
+    ![KPI Bridges]()
   - Treasury
-    ![Treasury]
+    ![Treasury]()
 
 ### Automated Report for Supplier Tracking in Power BI
 Developed a dynamic, frequently refreshed report covering the entire P2P cycle (**PR → PO → GRN → Invoice → BRS**). Reduced manual tracking effort by **40%** and provided real-time insights to **Procurement, AP & Treasury teams.**
