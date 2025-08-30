@@ -1,5 +1,5 @@
 # Data & Reporting Specialist | Certified Data Scientist
-Motivated **Data & Reporting Specialist** and **Certified Data Scientist** with over 2 years of experience in **SAP HANA, SQL, Power BI, and Python**. Skilled in **data extraction, transformation, visualization, and reporting**, delivering actionable insights to support business decisions. Experienced in collaborating with cross-functional teams, validating KPIs, and automating reporting processes to improve efficiency.
+Motivated data enthusiast with **2+ years** of experience in **SQL**, **SAP HANA**, and **Power BI**. Expertise in automating ETL pipelines, building executive dashboards, and migrating reporting systems, including a **30% efficiency gain** from **SAP Analytics Cloud** to **Power BI** migration. Proven track record of partnering with Finance and Operations teams to validate KPIs and deliver real-time insights with a strong passion for **teaching data concepts**.
 
 #### Skills: Python, SQL, Excel, Power BI, SAP HANA, Business Intelligence, Data Analysis, Data Science, Problem-Solver, Team-Worker, Critical-Thinker
 
@@ -8,11 +8,10 @@ Motivated **Data & Reporting Specialist** and **Certified Data Scientist** with 
 - Artificial Intelligence Certification, Data Science Specialization | Zaka (_November 2022_)
 
 ## Professional Experience
-**Senior IT System Adminstrator (Data and Reporting Specialist) @ Baladna Food Industries (_October 2023 - Present_)**
+**Data and Reporting Specialist (Senior IT System Adminstrator) @ Baladna Food Industries (_October 2023 - Present_)**
 
-*Official HR Title: **"Senior IT System Administrator"**, Performed the duties of a **"Data & Reporting Specialist"***
+*Official HR Title: **"Senior IT System Administrator"**; Performed the duties of a **"Data & Reporting Specialist"***
 
-*Tasks & Accomplishments:*
 - Maintain a **Microsoft SQL database** to build & monitor the **ETL** process of the SAP views being pulled and stored into SQL
 - Migrated **SAP Analytics Cloud (SAC)** financial reports to **Power BI** which improved reporting efficiency by **30%**
 - Replicated **SAC's Calculation Views** to SQL Views using **SAP HANA Studio** and **SQL Server Management Studio (SSMS)** to then be used as data sources for reports and dashboards
@@ -22,14 +21,12 @@ Motivated **Data & Reporting Specialist** and **Certified Data Scientist** with 
 
 **Teaching Assistant @ Correlation One (_October 2024 - January 2025_)**
 
-*Tasks & Accomplishments:*
 - Assisted & guided learners on how to use **Microsoft Excel**, **Visualizations Tools** & **Python** to complete a Data project
 - Provided few hours per week of **Office Hours** for learners to drop-by and ask their questions
 - Submitted weekly write-ups summarizing the week’s **accomplishments** and **challenges**
 
 **Freelancer Instructor @ Zaka (_November 2022 - April 2024_)**
 
-*Tasks & Accomplishments:*
 - Identifying and **addressing any learning gaps or challenges** faced by students, providing additional resources and support as needed
 - Expertly answering participants' questions on topics including **Computer Vision**, **Time Series Analysis**, **Algorithms**, **AI**, **ML** and **NLP**
 - Conducting interactive recap sessions to reinforce key concepts and materials covered in any Zaka Program
@@ -97,6 +94,7 @@ To read the full report you can click [here](https://drive.google.com/file/d/1tL
 - Oracle Cloud Infrastructure Foundations Associate: AI (2025 - 2027)
 - Oracle Cloud Infrastructure Generative AI (2024 - 2026)
 - Generative AI at SAP (2024)
+- Microsoft Azure, Azure AI, Azure Data Fundamentals (2021)
 
 ## Publications
 V. Plevris, H. Abdallah and A. Alnatsheh, "Blockchain and its Potential in the Digitization of Land and Real Estate Property Records", 2nd International Conference on Civil Infrastructure and Construction (CIC 2023), Qatar University, Doha, Qatar, 5-8 February, 2023.
