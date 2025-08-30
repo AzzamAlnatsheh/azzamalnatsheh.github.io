@@ -1,7 +1,7 @@
 # Data & Reporting Specialist | Certified Data Scientist
 Motivated data enthusiast with **2+ years** of experience in **SQL**, **SAP HANA**, and **Power BI**. Expertise in automating ETL pipelines, building executive dashboards, and migrating reporting systems, including a **30% efficiency gain** from **SAP Analytics Cloud** to **Power BI** migration. Proven track record of partnering with Finance and Operations teams to validate KPIs and deliver real-time insights with a strong passion for **teaching data concepts**.
 
-#### Skills: SQL | Power BI | Python | Excel | SAP HANA | BI | Data Analysis | EDA | SSMS | SAP HANA Studio
+#### Skills: SQL | Power BI | Python | Excel | SAP HANA | BI | Data Analysis | EDA | SQL Server Management Studio (SSMS) | SAP HANA Studio
 
 ## Education		        		
 - Bachelor's of Science in Computer Engineering | Qatar Univeristy (_August 2018_ -  _May 2023_)
