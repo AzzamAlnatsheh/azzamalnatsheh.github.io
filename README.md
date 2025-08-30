@@ -60,6 +60,10 @@ Developed a dynamic, frequently refreshed report covering the entire P2P cycle (
 ### SQL Source Migration and Refresh Enhancement of Sales Data
 Engineered a linked server integration between **SAP HANA** and **Microsoft SQL Server** to enable incremental sales data loading. Improved ETL efficiency by **60%**, ensuring faster data availability for reporting and decision-making.
 
+```
+SELECT * FROM OPENQUERY(LINKED_SERVER_NAME, 'SELECT * FROM SERVER.SCHEMA.SALES_DATA')
+```
+
 ### Finance Workspace App in Power BI
 Designed and deployed a **Finance Workspace App** integrating **15+** financial dashboards into a centralized access point this enabled the financial department to use the built reports and dashboards using only one link.
 
