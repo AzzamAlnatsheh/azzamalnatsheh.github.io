@@ -15,7 +15,7 @@ Migrated **9 financial dashboards from SAC to Power BI** including which enhance
     ![AP]()
   - Accounts Receivable (AR)
     ![AR]()
-  - [**Balance Sheet**](/assets/img/Balance Sheet.pbix)
+  - [Balance Sheet](/assets/img/Balance Sheet.pbix)
     ![Balance Sheet](/assets/img/Balance Sheet.png)
   - Detailed P&L
     ![Detailed P&L]()
