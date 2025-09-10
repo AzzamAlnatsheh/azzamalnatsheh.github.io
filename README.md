@@ -33,7 +33,7 @@ Migrated **9 financial dashboards from SAC to Power BI** including which enhance
 ### Automated Report for Supplier Tracking in Power BI
 Developed a dynamic, frequently refreshed report covering the entire P2P cycle (**PR → PO → GRN → Invoice → BRS**). Reduced manual tracking effort by **40%** and provided real-time insights to **Procurement, AP & Treasury teams.**
 
-### SQL Source Migration and Refresh Enhancement of Sales Data
+### SQL Source Migration and Refresh Enhancement
 Engineered a linked server integration between **SAP HANA** and **Microsoft SQL Server** to enable incremental sales data loading. Improved ETL efficiency by **60%**, ensuring faster data availability for reporting and decision-making.
 
 ```
@@ -71,12 +71,9 @@ To read the full report you can click [here](https://drive.google.com/file/d/1tL
 ![Cyber Bullying Arabic Tweets Detector Interface](/assets/img/Cyber Bullying Arabic Tweets Detector.png)
 
 ## Certifications
-- Exploring SAP Datasphere Course Completion by SAP (2025)
-- LLMOps in Practice: A Deep Dive by LinkedIn Learning (2025)
-- Oracle Cloud Infrastructure Foundations Associate: AI (2025 - 2027)
-- Oracle Cloud Infrastructure Generative AI (2024 - 2026)
-- Generative AI at SAP (2024)
-- Microsoft Azure, Azure AI, Azure Data Fundamentals (2021)
+- **Oracle Cloud Infrastructure Foundations Associate:** AI (2025 - 2027)
+- **Oracle Cloud Infrastructure Professional:** Generative AI (2024 - 2026)
+- **ZAKA Artificial Intelligence Certification:** Data Science Specialization (2022)
 
 ## Publications
 - [V. Plevris, H. Abdallah and A. Alnatsheh, "Blockchain and its Potential in the Digitization of Land and Real Estate Property Records", 2nd International Conference on Civil Infrastructure and Construction (CIC 2023), Qatar University, Doha, Qatar, 5-8 February, 2023.](https://qspace.qu.edu.qa/handle/10576/46815)
@@ -84,6 +81,5 @@ To read the full report you can click [here](https://drive.google.com/file/d/1tL
 
 ## Socials
 - [LinkedIn](https://www.linkedin.com/in/azzamalnatsheh/)
-- [GitHub](https://github.com/AzzamAlnatsheh)
-- [DataCamp](https://www.datacamp.com/portfolio/AzzamAlnatsheh)
-- [Kaggle](https://www.kaggle.com/azzamalnatsheh)
+- [Portfolio](https://azzamalnatsheh.github.io/)
+- [Email](azzam-2222@live.com)
