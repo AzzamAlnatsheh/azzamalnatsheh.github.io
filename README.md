@@ -1,40 +1,16 @@
-# Data & Reporting Specialist | Certified Data Scientist
-Motivated data enthusiast with **2+ years** of experience in **SQL**, **SAP HANA**, and **Power BI**. Expertise in automating ETL pipelines, building executive dashboards, and migrating reporting systems, including a **30% efficiency gain** from **SAP Analytics Cloud** to **Power BI** migration. Proven track record of partnering with Finance and Operations teams to validate KPIs and deliver real-time insights with a strong passion for **teaching data concepts**.
+# Power BI Developer
+I’m a Power BI Developer with **2+** years of experience designing dashboards and data models in **Power BI** and **SQL Server**. I specialize in transforming raw ERP/SAP data into actionable insights for Finance, Supply Chain, and Procurement teams.
 
-#### Skills: SQL | Power BI | Python | Excel | SAP HANA | BI | Data Analysis | EDA | SQL Server Management Studio (SSMS) | SAP HANA Studio
+#### Skills: SQL | Power BI (DAX, Power Query, RLS) | SQL Server | SAP HANA | Data Modeling | ETL
 
 ## Education		        		
-- Bachelor's of Science in Computer Engineering | Qatar Univeristy (_August 2018_ -  _May 2023_)
-- Artificial Intelligence Certification, Data Science Specialization | Zaka (_November 2022_)
-
-## Professional Experience
-**Data and Reporting Specialist (Senior IT System Adminstrator) @ Baladna Food Industries (_October 2023 - Present_)**
-
-*Official HR Title: **"Senior IT System Administrator"**; Performed the duties of a **"Data & Reporting Specialist"***
-
-- Maintain a **Microsoft SQL database** to build & monitor the **ETL** process of the SAP views being pulled and stored into SQL
-- Migrated **SAP Analytics Cloud (SAC)** financial reports to **Power BI** which improved reporting efficiency by **30%**
-- Replicated **SAC's Calculation Views** to SQL Views using **SAP HANA Studio** and **SQL Server Management Studio (SSMS)** to then be used as data sources for reports and dashboards
-- Collaborated with finance reporting team to validate **Key Performance Indicators (KPIs)** of the dashboards and the reports approved by the Chief Financial Officer (CFO) of the organization
-- Translated ABAP code to SAP HANA SQL views to replicate custom T-Codes output that were in the **SAP Application Server**
-- Delivered **30+ business projects** that enhanced the reporting procedure of several departments within the organization
-
-**Teaching Assistant @ Correlation One (_October 2024 - January 2025_)**
-
-- Assisted & guided learners on how to use **Microsoft Excel**, **Visualizations Tools** & **Python** to complete a Data project
-- Provided few hours per week of **Office Hours** for learners to drop-by and ask their questions
-- Submitted weekly write-ups summarizing the week’s **accomplishments** and **challenges**
-
-**Freelancer Instructor @ Zaka (_November 2022 - April 2024_)**
-
-- Identifying and **addressing any learning gaps or challenges** faced by students, providing additional resources and support as needed
-- Expertly answering participants' questions on topics including **Computer Vision**, **Time Series Analysis**, **Algorithms**, **AI**, **ML** and **NLP**
-- Conducting interactive recap sessions to reinforce key concepts and materials covered in any Zaka Program
+- BSc in Computer Engineering | Qatar Univeristy (_August 2018_ -  _May 2023_)
+- AI Certification, Data Science Specialization | Zaka (_August 2022_ - _November 2022_)
 
 ## Projects
 ### Migration of SAC Financial Dashboard → Microsoft Power BI
 ![SAC → PBI](/assets/img/SAC → PBI.png)
-Migrated **9 financial dashboards from SAC to Power BI** including: 
+Migrated **9 financial dashboards from SAC to Power BI** including which enhanced financial reporting by **30%**: 
   - Accounts Payable (AP)
     ![AP]()
   - Accounts Receivable (AR)
@@ -61,7 +37,9 @@ Developed a dynamic, frequently refreshed report covering the entire P2P cycle (
 Engineered a linked server integration between **SAP HANA** and **Microsoft SQL Server** to enable incremental sales data loading. Improved ETL efficiency by **60%**, ensuring faster data availability for reporting and decision-making.
 
 ```
-SELECT * FROM OPENQUERY(LINKED_SERVER_NAME, 'SELECT * FROM SERVER.SCHEMA.SALES_DATA')
+SELECT *
+FROM OPENQUERY(LINKED_SERVER_NAME,
+  'SELECT * FROM SERVER.SCHEMA.SALES_DATA')
 ```
 
 ### Finance Workspace App in Power BI
@@ -101,7 +79,8 @@ To read the full report you can click [here](https://drive.google.com/file/d/1tL
 - Microsoft Azure, Azure AI, Azure Data Fundamentals (2021)
 
 ## Publications
-V. Plevris, H. Abdallah and A. Alnatsheh, "Blockchain and its Potential in the Digitization of Land and Real Estate Property Records", 2nd International Conference on Civil Infrastructure and Construction (CIC 2023), Qatar University, Doha, Qatar, 5-8 February, 2023.
+- [V. Plevris, H. Abdallah and A. Alnatsheh, "Blockchain and its Potential in the Digitization of Land and Real Estate Property Records", 2nd International Conference on Civil Infrastructure and Construction (CIC 2023), Qatar University, Doha, Qatar, 5-8 February, 2023.](https://qspace.qu.edu.qa/handle/10576/46815)
+- [Azzam Alnatsheh, "How to Integrate ChatGPT with Power Query?", LinkedIn Article](https://www.linkedin.com/pulse/how-integrate-chatgpt-power-query-azzam-alnatsheh-hpbye/?trackingId=9syrsDqUMFelrHyGu7K%2BNg%3D%3D)
 
 ## Socials
 - [LinkedIn](https://www.linkedin.com/in/azzamalnatsheh/)
