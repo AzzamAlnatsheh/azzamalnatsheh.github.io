@@ -51,8 +51,8 @@ FROM OPENQUERY(LINKED_SERVER_NAME,
 - **ZAKA AI Certification:** Data Science Specialization (2022)
 
 ## Publications
+- [Azzam Alnatsheh, "How to Integrate ChatGPT with Power Query?", LinkedIn Article, August 2025](https://www.linkedin.com/pulse/how-integrate-chatgpt-power-query-azzam-alnatsheh-hpbye/?trackingId=9syrsDqUMFelrHyGu7K%2BNg%3D%3D)
 - [V. Plevris, H. Abdallah and A. Alnatsheh, "Blockchain and its Potential in the Digitization of Land and Real Estate Property Records", 2nd International Conference on Civil Infrastructure and Construction (CIC 2023), Qatar University, Doha, Qatar, 5-8 February, 2023.](https://qspace.qu.edu.qa/handle/10576/46815)
-- [Azzam Alnatsheh, "How to Integrate ChatGPT with Power Query?", LinkedIn Article](https://www.linkedin.com/pulse/how-integrate-chatgpt-power-query-azzam-alnatsheh-hpbye/?trackingId=9syrsDqUMFelrHyGu7K%2BNg%3D%3D)
 
 ## Socials
 - [LinkedIn](https://www.linkedin.com/in/azzamalnatsheh/)
