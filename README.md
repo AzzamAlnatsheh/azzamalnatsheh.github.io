@@ -4,7 +4,7 @@ I’m a Power BI Developer with **2+** years of experience designing dashboards 
 #### Skills: SQL | Power BI | Python | SAP HANA | Data Modeling | ETL
 
 ## Education		        		
-- BSc in Computer Engineering | Qatar Univeristy ( _May 2023_)
+- BSc in Computer Engineering | Qatar Univeristy (_May 2023_)
 - Data Science Specialization | Zaka AI Certification (_Nov 2022_)
 
 ## Projects
