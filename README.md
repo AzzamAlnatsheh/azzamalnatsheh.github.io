@@ -4,8 +4,8 @@ I’m a Power BI Developer with **2+** years of experience designing dashboards 
 #### Skills: SQL | Power BI | Python | SAP HANA | Data Modeling | ETL
 
 ## Education		        		
-- BSc in Computer Engineering | Qatar Univeristy (_Aug 2018_ -  _May 2023_)
-- AI Certification, Data Science Specialization | Zaka (_Aug 2022_ - _Nov 2022_)
+- BSc in Computer Engineering | Qatar Univeristy ( _May 2023_)
+- Data Science Specialization | Zaka AI Certification (_Nov 2022_)
 
 ## Projects
 ### <ins>Migration of SAC Financial Dashboard → Microsoft Power BI</ins>
@@ -30,10 +30,10 @@ Enhanced the financial reporting by **30%** through migrating **9 financial dash
 - [Treasury](/assets/pbi/Treasury.pbix)
   ![Treasury](/assets/img/Treasury.png)
 
-### Automated Report for Supplier Tracking in Power BI
+### <ins>Automated Report for Supplier Tracking in Power BI</ins>
 Developed a dynamic, frequently refreshed report covering the entire P2P cycle (**PR → PO → GRN → Invoice → BRS**). Reduced manual tracking effort by **40%** and provided real-time insights to **Procurement, AP & Treasury teams.**
 
-### SQL Source Migration and Refresh Enhancement
+### <ins>SQL Source Migration and Refresh Enhancement</ins>
 Engineered a linked server integration between **SAP HANA** and **Microsoft SQL Server** to enable incremental sales data loading. Improved ETL efficiency by **60%**, ensuring faster data availability for reporting and decision-making.
 
 ```
