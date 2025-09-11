@@ -1,11 +1,5 @@
 title: Azzam Alnatsheh
-logo: /assets/img/LinkedIn Image.jpg
+logo: /assets/img/White Background.png
 description: I design interactive dashboards and optimized data models in Power BI and SQL Server to help businesses make faster, data-driven decisions.
 show_downloads: False
 theme: jekyll-theme-minimal
-
-# Contact information should be properly formatted
-contact:
-  - "📧 azzam-2222@live.com"
-  - "📱 +974 66242669"
-  - "🔗 linkedin.com/in/azzamalnatsheh/"
