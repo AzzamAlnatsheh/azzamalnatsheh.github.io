@@ -46,9 +46,9 @@ FROM OPENQUERY(LINKED_SERVER_NAME,
 ```
 
 ## Certifications
-- **Oracle Cloud Infrastructure Foundations Associate:** AI (2025 - 2027)
-- **Oracle Cloud Infrastructure Professional:** Generative AI (2024 - 2026)
-- **ZAKA Artificial Intelligence Certification:** Data Science Specialization (2022)
+- **OCI Foundations Associate:** AI (2025 - 2027)
+- **OCI Professional:** Generative AI (2024 - 2026)
+- **ZAKA AI Certification:** Data Science Specialization (2022)
 
 ## Publications
 - [V. Plevris, H. Abdallah and A. Alnatsheh, "Blockchain and its Potential in the Digitization of Land and Real Estate Property Records", 2nd International Conference on Civil Infrastructure and Construction (CIC 2023), Qatar University, Doha, Qatar, 5-8 February, 2023.](https://qspace.qu.edu.qa/handle/10576/46815)
