@@ -1,35 +1,34 @@
 # Power BI Developer
 I’m a Power BI Developer with **2+** years of experience designing dashboards and data models in **Power BI** and **SQL Server**. I specialize in transforming raw ERP/SAP data into actionable insights for Finance, Supply Chain, and Procurement teams.
 
-### Skills: 
-SQL | Power BI (DAX, Power Query, RLS) | SQL Server | SAP HANA | Data Modeling | ETL
+#### Skills: SQL | Power BI | Python | SAP HANA | Data Modeling | ETL
 
 ## Education		        		
-- BSc in Computer Engineering | Qatar Univeristy (_August 2018_ -  _May 2023_)
-- AI Certification, Data Science Specialization | Zaka (_August 2022_ - _November 2022_)
+- BSc in Computer Engineering | Qatar Univeristy (_Aug 2018_ -  _May 2023_)
+- AI Certification, Data Science Specialization | Zaka (_Aug 2022_ - _Nov 2022_)
 
 ## Projects
 ### Migration of SAC Financial Dashboard → Microsoft Power BI
 ![SAC → PBI](/assets/img/SAC → PBI.png)
 Migrated **9 financial dashboards from SAC to Power BI** including which enhanced financial reporting by **30%**: 
-- [Accounts Payable (AP)](/assets/pbi/Accounts Payable.pbix)
-    ![AP](/assets/img/AP.png)
-- [Accounts Receivable (AR)](/assets/pbi/Accounts Receivable.pbix)
-    ![AR](/assets/img/AR.png)
-- [Balance Sheet](/assets/pbi/Balance Sheet.pbix)
-    ![Balance Sheet](/assets/img/Balance Sheet.png)
-- [Detailed P&L](/assets/pbi/Detailed P&L.pbix)
-    ![Detailed P&L](/assets/img/Detailed P&L.png)
-- [Executive Summary](/assets/pbi/Executive Summary.pbix)
-    ![Executive Summary](/assets/img/Executive Summary.png)
-- [KPI Analysis I](/assets/pbi/KPI Analysis I.pbix)
-    ![KPI Analysis I](/assets/img/KPI Analysis I.png)
-- [KPI Analysis II](/assets/pbi/KPI Analysis II.pbix)
-    ![KPI Analysis II](/assets/img/KPI Analysis II.png)
-- [KPI Bridges](/assets/pbi/KPI Bridges.pbix)
-    ![KPI Bridges](/assets/img/KPI Bridges.png)
-- [Treasury](/assets/pbi/Treasury.pbix)
-    ![Treasury](/assets/img/Treasury.png)
+    - [Accounts Payable (AP)](/assets/pbi/Accounts Payable.pbix)
+      ![AP](/assets/img/AP.png)
+    - [Accounts Receivable (AR)](/assets/pbi/Accounts Receivable.pbix)
+      ![AR](/assets/img/AR.png)
+    - [Balance Sheet](/assets/pbi/Balance Sheet.pbix)
+      ![Balance Sheet](/assets/img/Balance Sheet.png)
+    - [Detailed P&L](/assets/pbi/Detailed P&L.pbix)
+      ![Detailed P&L](/assets/img/Detailed P&L.png)
+    - [Executive Summary](/assets/pbi/Executive Summary.pbix)
+      ![Executive Summary](/assets/img/Executive Summary.png)
+    - [KPI Analysis I](/assets/pbi/KPI Analysis I.pbix)
+      ![KPI Analysis I](/assets/img/KPI Analysis I.png)
+    - [KPI Analysis II](/assets/pbi/KPI Analysis II.pbix)
+      ![KPI Analysis II](/assets/img/KPI Analysis II.png)
+    - [KPI Bridges](/assets/pbi/KPI Bridges.pbix)
+      ![KPI Bridges](/assets/img/KPI Bridges.png)
+    - [Treasury](/assets/pbi/Treasury.pbix)
+      ![Treasury](/assets/img/Treasury.png)
 
 ### Automated Report for Supplier Tracking in Power BI
 Developed a dynamic, frequently refreshed report covering the entire P2P cycle (**PR → PO → GRN → Invoice → BRS**). Reduced manual tracking effort by **40%** and provided real-time insights to **Procurement, AP & Treasury teams.**
