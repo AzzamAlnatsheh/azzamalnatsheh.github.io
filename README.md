@@ -31,11 +31,11 @@ Enhanced the financial reporting by **30%** through migrating **9 financial dash
   ![Treasury](/assets/img/Treasury.png)
 
 ### <ins>Automated Report for Supplier Tracking in Power BI</ins>
-![](/assets/img/Supplier Tracking.png)
+![](/assets/img/BRS.png)
 Reduced manual tracking effort by **40%** and provided real-time insight to **Procurement, Accounts Payable & Treasury departments** through developing a dynamic, frequently refreshed report covering the entire P2P cycle (**Purchase Request (PR) → Purchase Order (PO) → Goods Received Note (GRN) → Invoice → Bank Reconcilation Statement (BRS)**). 
 
 ### <ins>SQL Source Migration and Refresh Enhancement</ins>
-![SAC → PBI](/assets/img/SAC → PBI.png)
+![](/assets/img/SQL.png)
 Engineered a linked server integration between **SAP HANA** and **Microsoft SQL Server** to enable incremental sales data loading. Improved ETL efficiency by **60%**, ensuring faster data availability for reporting and decision-making.
 
 This query is for extracting SALES_DATA from a linked server in SQL Server Management Studio to a SQL Server:
