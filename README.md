@@ -10,7 +10,7 @@ I’m a Power BI Developer with **2+** years of experience designing dashboards 
 ## Projects
 ### <ins>Migration of SAC Financial Dashboard → Microsoft Power BI</ins>
 ![SAC → PBI](/assets/img/SAC → PBI.png)
-Enhanced the financial reporting by **30%** through migrating **9 financial dashboards from SAP Analytics Cloud (SAC) to Power BI** including the following: 
+Enhanced the financial reporting by **30%** through migrating **9 financial dashboards from SAP Analytics Cloud (SAC) to Power BI**: 
 - [Accounts Payable (AP)](/assets/pbi/Accounts Payable.pbix)
   ![AP](/assets/img/AP.png)
 - [Accounts Receivable (AR)](/assets/pbi/Accounts Receivable.pbix)
@@ -31,7 +31,7 @@ Enhanced the financial reporting by **30%** through migrating **9 financial dash
   ![Treasury](/assets/img/Treasury.png)
 
 ### <ins>Automated Report for Supplier Tracking in Power BI</ins>
-Developed a dynamic, frequently refreshed report covering the entire P2P cycle (**PR → PO → GRN → Invoice → BRS**). Reduced manual tracking effort by **40%** and provided real-time insights to **Procurement, AP & Treasury teams.**
+Developed a dynamic, frequently refreshed report covering the entire P2P cycle (**PR → PO → GRN → Invoice → BRS**). Reduced manual tracking effort by **40%** and provided real-time insights to **Procurement, Accounts Payable & Treasury teams.**
 
 ### <ins>SQL Source Migration and Refresh Enhancement</ins>
 Engineered a linked server integration between **SAP HANA** and **Microsoft SQL Server** to enable incremental sales data loading. Improved ETL efficiency by **60%**, ensuring faster data availability for reporting and decision-making.
