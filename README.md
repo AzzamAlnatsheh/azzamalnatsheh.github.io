@@ -46,6 +46,7 @@ FROM OPENQUERY(LINKED_SERVER_NAME,
 ```
 
 ## Certifications
+- **Microsoft Certified:** Power BI Data Analyst Associate (2025 - 2026)
 - **OCI Foundations Associate:** AI (2025 - 2027)
 - **OCI Professional:** Generative AI (2024 - 2026)
 - **ZAKA AI Certification:** Data Science Specialization (2022)
