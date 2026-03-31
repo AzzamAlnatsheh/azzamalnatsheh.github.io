@@ -8,6 +8,9 @@ I’m a Power BI Developer with **2+** years of experience designing dashboards 
 - Data Science Specialization | Zaka AI Certification (_Nov 2022_)
 
 ## Projects
+### <ins>HelenForTheHired DDS HR Professional Chatbot</ins>
+An AI HR Chatbot built using **Pinecone, Llama-index, OpenAI LLM, Python & Hugging Face** to answer employee's HR-related questions, can be accessed through this [link](https://huggingface.co/spaces/Crackershoot/AIAcceleratorBootcamp)
+
 ### <ins>Migration of SAC Financial Dashboard → Microsoft Power BI</ins>
 ![SAC → PBI](/assets/img/SAC → PBI.png)
 Enhanced the financial reporting by **30%** through migrating **9 financial dashboards from SAP Analytics Cloud (SAC) to Power BI**: 
