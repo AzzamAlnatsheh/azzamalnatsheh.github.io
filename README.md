@@ -1,13 +1,9 @@
-# Data & AI Specialist | Power BI Developer
+# Power BI Developer
 
-I’m a Data & AI Specialist with experience building enterprise analytics solutions, AI-powered applications, and automated reporting systems using **Power BI, SQL, Python, SAP HANA, and Generative AI technologies**.
-
-My expertise lies in transforming complex ERP/SAP data into actionable business insights for **Finance, Procurement, Supply Chain, Treasury, and Executive Management** while also developing modern AI solutions using **LLMs, NLP, Vector Databases, and AI Agents**.
+I’m a Power BI Developer with **2+** years of experience designing dashboards and data models in **Power BI** and **SQL Server**. I specialize in transforming raw ERP/SAP data into actionable insights for Finance, Supply Chain, and Procurement teams.
 
 #### Skills
-`SQL` | `Power BI` | `Python` | `SAP HANA` | `SQL Server` | `Data Modeling` | `ETL`  
-`Machine Learning` | `NLP` | `Generative AI` | `OpenAI` | `LlamaIndex`  
-`Pinecone` | `Computer Vision` | `Power Query` | `Dashboard Development`
+`SQL` | `Power BI` | `Python` | `SAP HANA` | `SQL Server` | `Data Modeling` | `ETL` | `Machine Learning` | `Power Query` | `Dashboard Development`
 
 ---
 
@@ -34,6 +30,23 @@ Designed and optimized enterprise reporting solutions and data pipelines for Fin
 ---
 
 # Projects
+
+## <ins>Dox - The Data Professional's Guide</ins>
+
+A professional data chatbot that aims in reminding and helping data experts in certain concepts in a simplified way while also having access to download DataCamp's public cheat sheets on many data-related topics.
+
+### Technologies
+- OpenAI
+- LlamaIndex
+- Agno
+- Hugging Face
+- Python
+- Vector Embeddings
+- RAG Architecture
+
+🔗 [Live Demo](https://huggingface.co/spaces/Crackershoot/BuildingAIChallenge)
+
+---
 
 ## <ins>HelenForTheHired — AI HR Professional Chatbot</ins>
 
@@ -210,7 +223,6 @@ Developed an AI-based advisory platform that provides intelligent recommendation
 # Publications
 
 - [How to Integrate ChatGPT with Power Query?](https://www.linkedin.com/pulse/how-integrate-chatgpt-power-query-azzam-alnatsheh-hpbye/?trackingId=9syrsDqUMFelrHyGu7K%2BNg%3D%3D)
-
 - [Blockchain and its Potential in the Digitization of Land and Real Estate Property Records](https://qspace.qu.edu.qa/handle/10576/46815)
 
 ---
