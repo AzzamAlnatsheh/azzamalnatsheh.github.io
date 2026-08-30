@@ -14,14 +14,22 @@ I’m a Power BI Developer with nearly **3** years of experience designing dashb
 Developed interactive dashboards and automated pipelines that centralized legacy reporting, enabling secure, data-driven leadership decisions across departments using **Power BI, Power Automate, and SharePoint**.
 
 ### Key Achievements
-- Developed **20+** interactive Power BI dashboards, increasing visibility on key national indicators by 60% and enabling faster, data-driven decision-making across departments
+<!--- Developed **20+** interactive Power BI dashboards, increasing visibility on key national indicators by 60% and enabling faster, data-driven decision-making across departments
 - Partnered with domain experts and business stakeholders to design **KPI-focused** dashboards that support accurate reporting to senior leadership
 - Transformed fragmented Excel-based monitoring processes into centralized, user-friendly BI solutions, significantly **reducing manual validation** effort
 - Configured and maintained an *on-premise data gateway* on a virtual machine to enable secure and reliable scheduled refreshes from on-premise SharePoint sources
 - Resolved connectivity and refresh issues by installing and **validating SSL certificates** on the gateway environment, ensuring successful data refresh operations in Power BI Service
 - Improved report adoption through intuitive navigation, filtering, and drill-through capabilities, **enhancing usability** for non-technical users
 - Recognized as **Employee of the Month** (May 2026) by the Information Systems Department for outstanding contributions and performance
-- Automated manual data extraction from Microsoft Entra ID to SharePoint Excel using Power Automate flow with **incremental refresh** mechanism
+- Automated manual data extraction from Microsoft Entra ID to SharePoint Excel using Power Automate flow with **incremental refresh** mechanism-->
+- Developed 20+ interactive dashboards that boosted national indicator visibility by 60% and accelerated cross-departmental decision-making.
+- Collaborated with business stakeholders to design KPI-focused layouts for accurate senior leadership reporting.
+- Converted fragmented Excel tracking into automated BI environments, drastically eliminating manual data validation.
+- Built user-friendly navigation and drill-through functions to optimize system usability for non-technical users.
+- Named Employee of the Month (May 2026) within the Information Systems Department for exceptional performance.
+- Maintained an incremental refresh pipeline using Power Automate to seamlessly extract Microsoft Entra ID logs.
+- Configured and managed an On-Premises Data Gateway on a virtual machine to bridge localized SharePoint assets.
+- Resolved active refresh failures in the Power BI Service by installing and validating gateway SSL certificates.
 
 ## Data & Reporting Specialist | Baladna Food Industries
 
