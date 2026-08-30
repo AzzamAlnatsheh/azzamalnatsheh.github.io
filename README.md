@@ -9,6 +9,20 @@ I’m a Power BI Developer with nearly **3** years of experience designing dashb
 
 # Experience
 
+## Power BI Developer | National Planning Council
+
+Developed interactive dashboards and automated pipelines that centralized legacy reporting, enabling secure, data-driven leadership decisions across departments using **Power BI, Power Automate, and SharePoint**.
+
+### Key Achievements
+- Developed **20+** interactive Power BI dashboards, increasing visibility on key national indicators by 60% and enabling faster, data-driven decision-making across departments
+- Partnered with domain experts and business stakeholders to design **KPI-focused** dashboards that support accurate reporting to senior leadership
+- Transformed fragmented Excel-based monitoring processes into centralized, user-friendly BI solutions, significantly **reducing manual validation** effort
+- Configured and maintained an *on-premise data gateway* on a virtual machine to enable secure and reliable scheduled refreshes from on-premise SharePoint sources
+- Resolved connectivity and refresh issues by installing and **validating SSL certificates** on the gateway environment, ensuring successful data refresh operations in Power BI Service
+- Improved report adoption through intuitive navigation, filtering, and drill-through capabilities, **enhancing usability** for non-technical users
+- Recognized as **Employee of the Month** (May 2026) by the Information Systems Department for outstanding contributions and performance
+- Automated manual data extraction from Microsoft Entra ID to SharePoint Excel using Power Automate flow with **incremental refresh** mechanism
+
 ## Data & Reporting Specialist | Baladna Food Industries
 
 Designed and optimized enterprise reporting solutions and data pipelines for Finance and Supply Chain operations using **SAP HANA, SQL Server, and Power BI**.
