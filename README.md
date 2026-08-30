@@ -1,6 +1,6 @@
 # Power BI Developer
 
-I’m a Power BI Developer with **2+** years of experience designing dashboards and data models in **Power BI** and **SQL Server**. I specialize in transforming raw ERP/SAP data into actionable insights for Finance, Supply Chain, and Procurement teams.
+I’m a Power BI Developer with nearly **3** years of experience designing dashboards and data models in **Power BI** and **SQL Server**. I specialize in transforming raw ERP/SAP data into actionable insights for Finance, Supply Chain, and Procurement teams.
 
 #### Skills
 `SQL` | `Power BI` | `Python` | `SAP HANA` | `SQL Server` | `Data Modeling` | `ETL` | `Machine Learning` | `Power Query` | `Dashboard Development`
@@ -72,16 +72,16 @@ An AI-powered HR chatbot developed using **Pinecone, LlamaIndex, OpenAI LLMs, Py
 Enhanced financial reporting performance by **30%** through migrating **9 enterprise financial dashboards from SAP Analytics Cloud (SAC) to Microsoft Power BI**.
 
 ### Dashboards
-
+<!--
 - [Accounts Payable (AP)](/assets/pbi/Accounts%20Payable.pbix)  
   ![AP](/assets/img/AP.png)
 
 - [Accounts Receivable (AR)](/assets/pbi/Accounts%20Receivable.pbix)  
   ![AR](/assets/img/AR.png)
-
+-->
 - [Balance Sheet](/assets/pbi/Balance%20Sheet.pbix)  
   ![Balance Sheet](/assets/img/Balance%20Sheet.png)
-
+<!--
 - [Detailed P&L](/assets/pbi/Detailed%20P&L.pbix)  
   ![Detailed P&L](/assets/img/Detailed%20P&L.png)
 
@@ -98,7 +98,7 @@ Enhanced financial reporting performance by **30%** through migrating **9 enterp
   ![KPI Bridges](/assets/img/KPI%20Bridges.png)
 
 - [Treasury](/assets/pbi/Treasury.pbix)  
-  ![Treasury](/assets/img/Treasury.png)
+  ![Treasury](/assets/img/Treasury.png) -->
 
 ### Technologies
 - Power BI
@@ -202,7 +202,8 @@ Developed an AI-based advisory platform that provides intelligent recommendation
 
 # Certifications
 
-- **Microsoft Certified:** Power BI Data Analyst Associate (2025 - 2026)
+- **Microsoft Certified:** Fabric Analyst Engineer Associate (2026 - 2027) 
+- **Microsoft Certified:** Power BI Data Analyst Associate (2025 - 2027)
 - **OCI Foundations Associate:** AI (2025 - 2027)
 - **OCI Professional:** Generative AI (2024 - 2026)
 - **Chief AI Officer (CAIO)** — Decoding Data Science (2026)
@@ -222,6 +223,7 @@ Developed an AI-based advisory platform that provides intelligent recommendation
 
 # Publications
 
+- [Building Dox: An 8 Day Journey to an AI Data Professional’s Guide](https://academy.decodingdatascience.com/blog/buildingdoxchallenge)
 - [How to Integrate ChatGPT with Power Query?](https://www.linkedin.com/pulse/how-integrate-chatgpt-power-query-azzam-alnatsheh-hpbye/?trackingId=9syrsDqUMFelrHyGu7K%2BNg%3D%3D)
 - [Blockchain and its Potential in the Digitization of Land and Real Estate Property Records](https://qspace.qu.edu.qa/handle/10576/46815)
 
