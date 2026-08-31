@@ -101,6 +101,7 @@ Enhanced financial reporting performance by **30%** through migrating **9 enterp
 -->
 - [Balance Sheet](/assets/pbi/Balance%20Sheet.pbix)  
   ![Balance Sheet](/assets/img/Balance%20Sheet.png)
+
 <!--
 - [Detailed P&L](/assets/pbi/Detailed%20P&L.pbix)  
   ![Detailed P&L](/assets/img/Detailed%20P&L.png)
