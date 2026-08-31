@@ -118,7 +118,8 @@ Enhanced financial reporting performance by **30%** through migrating **9 enterp
   ![KPI Bridges](/assets/img/KPI%20Bridges.png)
 
 - [Treasury](/assets/pbi/Treasury.pbix)  
-  ![Treasury](/assets/img/Treasury.png) -->
+  ![Treasury](/assets/img/Treasury.png) 
+-->
 
 ### Technologies
 - Power BI
