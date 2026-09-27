@@ -104,8 +104,8 @@ Enhanced financial reporting performance by **30%** through migrating **9 enterp
 - Balance Sheet
   ![Balance Sheet](/assets/img/Balance%20Sheet.png)
 - Shipment Trade & Customs Dashboard
-- ![Shipment Trade & Customs Dashboard](/assets/img/Shipment Dashboard.png)
-- ![Shipment Trade & Customs Dashboard](assets/img/Shipment Details.png)
+- ![Shipment Trade & Customs Dashboard](/assets/img/Shipment%20Dashboard.png)
+- ![Shipment Trade & Customs Dashboard](assets/img/Shipment%20Details.png)
 
 <!--
 - [Detailed P&L](/assets/pbi/Detailed%20P&L.pbix)  
