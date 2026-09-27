@@ -98,9 +98,14 @@ Enhanced financial reporting performance by **30%** through migrating **9 enterp
 
 - [Accounts Receivable (AR)](/assets/pbi/Accounts%20Receivable.pbix)  
   ![AR](/assets/img/AR.png)
+
+- [Balance Sheet](/assets/pbi/Balance%20Sheet.pbix)
 -->
-- [Balance Sheet](/assets/pbi/Balance%20Sheet.pbix)  
+- Balance Sheet
   ![Balance Sheet](/assets/img/Balance%20Sheet.png)
+- Shipment Trade & Customs Dashboard
+- ![Shipment Trade & Customs Dashboard](/assets/img/Shipment Dashboard.png)
+- ![Shipment Trade & Customs Dashboard](assets/img/Shipment Details.png)
 
 <!--
 - [Detailed P&L](/assets/pbi/Detailed%20P&L.pbix)  
